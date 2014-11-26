@@ -1,0 +1,15 @@
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\bin\Debug\GoodInfoManager.exe
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\bin\Debug\GoodInfoManager.pdb
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.csprojResolveAssemblyReference.cache
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.Properties.Resources.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.csproj.GenerateResource.Cache
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.exe
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.pdb
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.main.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.SalePersonForm.addSalePerson.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.SalePersonForm.LookSaleSalary.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.StorePersonForm.addStorePerson.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.StorePersonForm.lookStoreSalary.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.GoodInfoForm.addGood.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.GoodInfoForm.lookGood.resources
+C:\Users\liuwish-user\Desktop\GoodInfoManager\GoodInfoManager\obj\Debug\GoodInfoManager.GoodInfoForm.updateGood.resources
