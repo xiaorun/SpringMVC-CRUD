@@ -1,7 +1,7 @@
 SpringMVC-CRUD
 ==============
 
-SpringMVC-CRUD demo
+SpringMVC-CRUD demo \n
 
 访问地址：http://127.0.0.1:8080/SpringMVC-CRUD/
 数据库服务器：mysql
